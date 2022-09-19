@@ -1,0 +1,14 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.p-dialog-content {
+  padding: 10px !important;
+}
+
+.p-autocomplete-input {
+  width: 100%;
+  background: url('@/assets/icon-search.svg') no-repeat scroll 13px 13px,white !important;
+  padding-left: 35px !important;
+}
